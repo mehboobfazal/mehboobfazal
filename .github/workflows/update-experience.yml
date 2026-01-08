@@ -1,0 +1,26 @@
+name: Update Experience Years
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate experience
+        run: |
+          START_YEAR=2014
+          CURRENT_YEAR=$(date +%Y)
+          YEARS=$((CURRENT_YEAR - START_YEAR))
+          sed -i "s/{{YEARS_OF_EXPERIENCE}}/$YEARS/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git commit -am "auto: update experience years" || exit 0
+          git push
