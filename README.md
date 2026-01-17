@@ -18,7 +18,7 @@
 ---
 
 ## About Me
-I’m a software professional with **12+ years** of experience building, scaling, and maintaining production-grade web applications and enterprise systems.
+I’m a software professional with **11+ years** of experience building, scaling, and maintaining production-grade web applications and enterprise systems.
 
 I started as a developer, grew into a Lead Developer role, and currently work as an **Assistant Project Manager** (since July 2025), bridging technical execution with delivery, planning, and coordination.
 
