@@ -2,7 +2,7 @@ name: Update Experience Years
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 permissions:
@@ -16,14 +16,20 @@ jobs:
 
       - name: Calculate experience
         run: |
-          START_YEAR=2014
-          CURRENT_YEAR=$(date +%Y)
-          YEARS=$((CURRENT_YEAR - START_YEAR))
+          START_DATE="2014-10-16"
+          TODAY=$(date +%Y-%m-%d)
+          YEARS=$(date -d "$TODAY" +%Y)
+          YEARS=$((YEARS - $(date -d "$START_DATE" +%Y)))
+          ANNIVERSARY_THIS_YEAR=$(date -d "$START_DATE +$YEARS years" +%Y-%m-%d)
+          if [ "$TODAY" \< "$ANNIVERSARY_THIS_YEAR" ]; then YEARS=$((YEARS - 1)); fi
+          CURRENT=$(grep -oE '\*\*[0-9]+\+ years\*\*' README.md | grep -oE '[0-9]+')
+          if [ "$CURRENT" = "$YEARS" ]; then echo "No change in experience years"; exit 0; fi
           sed -i -E "s/\*\*[0-9]+\+ years\*\*/\*\*$YEARS+ years\*\*/" README.md
+
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git commit -am "auto: update experience years" || exit 0
+          git commit -am "auto: update experience years"
           git push
