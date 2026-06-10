@@ -26,15 +26,16 @@ Adaptability matters more than comfort. I switch stacks when the problem demands
 
 ---
 
-## Current Role
+## Latest Role
 **Assistant Project Manager**  
 Ksystem Pvt. Ltd. / YoungLimWon Soft Lab (South Korea)  
-July 2025 – Present
+July 2025 – June 2026
 
 - Coordinating development teams and timelines
 - Translating business requirements into technical execution plans
 - Supporting architecture and technical decisions
 - Ensuring delivery quality across products
+- Actively coordinated, shortlisted, interviewed candidates during hiring process of technical staffs.
 
 ---
 
