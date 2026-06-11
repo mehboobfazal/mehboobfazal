@@ -22,6 +22,8 @@ I’m a software professional with **11+ years** of experience building, scaling
 
 I started as a developer, grew into a Lead Developer role, and worked as an **Assistant Project Manager** (June 2026), bridging technical execution with delivery, planning, and coordination.
 
+I prioritize delivering solutions that go beyond functionality, optimized for performance, hardened for security, and engineered for efficiency and long-term maintainability.
+
 Adaptability matters more than comfort. I switch stacks when the problem demands it.
 
 ---
