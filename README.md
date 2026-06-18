@@ -67,7 +67,7 @@ Backend:
 Node.js, Express.js, FastAPI, Python, REST APIs, GraphQL, Authentication, Authorization, JWT, OAuth, RBAC, API Versioning, Background Jobs, Error Handling, Logging, Monitoring
 
 Full-Stack & Tooling:
-Nextjs, Vite, Webpack, Babel, NPM, Yarn, PNPM, Git, GitHub, GitHub Actions, CI/CD Pipelines, Docker, Linux, Shell, Bash, Environment Configuration, Secrets Management, Deployment Automation
+Nextjs, Vite, Webpack, Babel, NPM, Yarn, PNPM, Git, GitHub, GitHub Actions, Bitbucket, CI/CD Pipelines, Docker, Linux, Shell, Bash, Environment Configuration, Secrets Management, Deployment Automation, Azure DevOps (Repos, Boards) & Trello
 
 Databases:
 MySQL, PostgreSQL, SQL Server, MongoDB, DynamoDB, Database Design, Schema Modeling, Indexing, Query Optimization, Data Migration, Backup & Restore
@@ -79,7 +79,7 @@ Testing & Quality:
 Locust, Postman, Selenium, TestComplete, Ranorex, API Testing, UI Automation Testing, Manual Testing, Regression Testing, Stress Testing, Load Testing
 
 **AI / LLM Systems:**
-LLM API integration, multi-model providers, RAG pipelines, Milvus vector database, embeddings & semantic search, MCP integration, chatbot development, AI tool/function calling, workflow orchestration, and production AI system design with logging and monitoring using tools like Langfuse, LiteLLM, Dify, and vLLM.
+LLM API integration, multi-model providers, RAG pipelines, Milvus vector database, embeddings & semantic search, MCP integration, chatbot development, AI tool/function calling, workflow orchestration, and production AI system design with logging and monitoring using tools like Langfuse, LiteLLM, Dify, and vLLM. Azure OpenAI Service (Azure AI Studio / model deployment)
 
 ---
 
