@@ -76,7 +76,10 @@ Cloud & Platforms:
 AWS, EC2, S3, IAM, DynamoDB, Lightsail, Cloud Deployments, Headless CMS, Strapi, ERP Systems, BI Systems, System Integration, Legacy System Migration
 
 Testing & Quality:
-Postman, Selenium, TestComplete, Ranorex, API Testing, UI Automation Testing, Manual Testing, Regression Testing, Stress Testing, Load Testing
+Locust, Postman, Selenium, TestComplete, Ranorex, API Testing, UI Automation Testing, Manual Testing, Regression Testing, Stress Testing, Load Testing
+
+**AI / LLM Systems:**
+LLM API integration, multi-model providers, RAG pipelines, Milvus vector database, embeddings & semantic search, MCP integration, chatbot development, AI tool/function calling, workflow orchestration, and production AI system design with logging and monitoring using tools like Langfuse, LiteLLM, Dify, and vLLM.
 
 ---
 
