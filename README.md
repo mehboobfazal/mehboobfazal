@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <h3>Assistant Project Manager | Engineering Background</h3>
+      <h3>Full Stack Developer | Backend • Frontend • DevOps • AI Systems</h3>
       <p>📍 Kathmandu, Nepal</p>
       <p>
         <a href="https://www.linkedin.com/in/fazal-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
