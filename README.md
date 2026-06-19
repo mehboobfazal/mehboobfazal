@@ -64,7 +64,7 @@ Frontend:
 JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Svelte, Nextjs, Redux, jQuery, Kendo UI, Responsive Design, Cross-Browser Compatibility, UI State Management, Component-Based Architecture, Accessibility Basics, Figma, Wireframing
 
 Backend & Integrations:
-Node.js, Express.js, FastAPI, Python, REST APIs, GraphQL, Razorpay, Payment Gateway Integration, Webhooks, Authentication, Authorization, JWT, OAuth, RBAC, API Versioning, Background Jobs, Error Handling, Logging, Monitoring
+Node.js, Express.js, FastAPI, Python, REST APIs, GraphQL, Google Workspace API Integration (Drive, Sheets), Razorpay, Agora SDK , Payment Gateway Integration, Webhooks, Authentication, Authorization, JWT, OAuth, RBAC, API Versioning, Background Jobs, Error Handling, Logging, Monitoring, 360Dialog
 
 Full-Stack & Tooling:
 Nextjs, Vite, Webpack, Babel, NPM, Yarn, PNPM, Git, GitHub, GitHub Actions, Bitbucket, CI/CD Pipelines, Docker, Linux, Shell, Bash, Environment Configuration, Secrets Management, Deployment Automation, Azure DevOps (Repos, Boards) & Trello
