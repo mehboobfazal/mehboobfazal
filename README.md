@@ -61,10 +61,10 @@ Oct 2014 – June 2019
 
 ## Tech Stack
 Frontend:
-JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Svelte, Nextjs, Redux, jQuery, Responsive Design, Cross-Browser Compatibility, UI State Management, Component-Based Architecture, Accessibility Basics, Figma, Wireframing
+JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Svelte, Nextjs, Redux, jQuery, Kendo UI, Responsive Design, Cross-Browser Compatibility, UI State Management, Component-Based Architecture, Accessibility Basics, Figma, Wireframing
 
-Backend:
-Node.js, Express.js, FastAPI, Python, REST APIs, GraphQL, Authentication, Authorization, JWT, OAuth, RBAC, API Versioning, Background Jobs, Error Handling, Logging, Monitoring
+Backend & Integrations:
+Node.js, Express.js, FastAPI, Python, REST APIs, GraphQL, Razorpay, Payment Gateway Integration, Webhooks, Authentication, Authorization, JWT, OAuth, RBAC, API Versioning, Background Jobs, Error Handling, Logging, Monitoring
 
 Full-Stack & Tooling:
 Nextjs, Vite, Webpack, Babel, NPM, Yarn, PNPM, Git, GitHub, GitHub Actions, Bitbucket, CI/CD Pipelines, Docker, Linux, Shell, Bash, Environment Configuration, Secrets Management, Deployment Automation, Azure DevOps (Repos, Boards) & Trello
@@ -79,7 +79,7 @@ Testing & Quality:
 Locust, Postman, Selenium, TestComplete, Ranorex, API Testing, UI Automation Testing, Manual Testing, Regression Testing, Stress Testing, Load Testing
 
 **AI / LLM Systems:**
-LLM API integration, multi-model providers, RAG pipelines, Milvus vector database, embeddings & semantic search, MCP integration, chatbot development, AI tool/function calling, workflow orchestration, and production AI system design with logging and monitoring using tools like Langfuse, LiteLLM, Dify, and vLLM. Azure OpenAI Service (Azure AI Studio / model deployment)
+LLM API integration, LangChain, LangSmith, multi-model providers, RAG pipelines, Milvus vector database, embeddings & semantic search, MCP integration, chatbot development, AI tool/function calling, workflow orchestration, and production AI system design with logging and monitoring using tools like Langfuse, LiteLLM, Dify, and vLLM. Azure OpenAI Service (Azure AI Studio / model deployment)
 
 ---
 
