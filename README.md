@@ -77,7 +77,7 @@ LLM API integration, LangChain, LangSmith, multi-model providers, RAG pipelines,
 
 ## Featured Project
 **Rwizen**  
-https://rwizen.com
+https://rwizen.com  
 https://github.com/mehboobfazal/rwizen
 - Architected and developed a modern content platform using Next.js and a headless CMS architecture.
 - Designed server-side rendering (SSR) architecture to improve SEO, performance, and user experience.
