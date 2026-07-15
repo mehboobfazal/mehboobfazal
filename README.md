@@ -20,7 +20,7 @@
 ## About Me
 I’m a software professional with **11+ years** of experience building, scaling, and maintaining production-grade web applications and enterprise systems.
 
-I started as a developer, grew into a Lead Developer role, and worked as an **Assistant Project Manager** (June 2026), bridging technical execution with delivery, planning, and coordination.
+I started as a developer, grew into a **Lead Developer role** (June 2026), bridging technical execution with delivery, planning, and coordination.
 
 I prioritize delivering solutions that go beyond functionality, optimized for performance, hardened for security, and engineered for efficiency and long-term maintainability.
 
@@ -28,27 +28,19 @@ Adaptability matters more than comfort. I switch stacks when the problem demands
 
 ---
 
-## Latest Role
-**Assistant Project Manager**  
-Ksystem Pvt. Ltd. / YoungLimWon Soft Lab (South Korea)  
-July 2025 – June 2026
-
-- Coordinating development teams and timelines
-- Translating business requirements into technical execution plans
-- Supporting architecture and technical decisions
-- Ensuring delivery quality across products
-- Actively coordinated, shortlisted, interviewed candidates during hiring process of technical staffs.
-
----
-
 ## Previous Experience
-**Lead Developer**  
-July 2019 – July 2024
+**Lead Developer**
+Ksystem Pvt. Ltd. / YoungLimWon Soft Lab (South Korea)
+July 2019 – June 2026
 
 - Built and maintained BI/ERP systems
 - Guided technical decisions and mentored developers
 - Solved complex production issues
 - Introduced and upgraded technologies
+- Coordinating development teams and timelines
+- Translating business requirements into technical execution plans
+- Supporting architecture and technical decisions
+- Ensuring delivery quality across products
 
 **Software Developer**  
 Oct 2014 – June 2019
@@ -85,11 +77,13 @@ LLM API integration, LangChain, LangSmith, multi-model providers, RAG pipelines,
 
 ## Featured Project
 **Rwizen**  
-https://rwizen.com  
-
-Built using Next.js as a full-stack framework with Strapi as a headless CMS and MongoDB as the primary datastore.  
-Migrated from a legacy PHP/MySQL system to a modern, scalable architecture.  
-Delivered and maintained 10+ CMS-based production projects since 2020
+https://rwizen.com
+https://github.com/mehboobfazal/rwizen
+- Architected and developed a modern content platform using Next.js and a headless CMS architecture.
+- Designed server-side rendering (SSR) architecture to improve SEO, performance, and user experience.
+- Built secure REST API integrations between the frontend, Strapi CMS, and backend services.
+- Designed scalable MongoDB data models and optimized database performance for content management.
+- Managed cloud deployment, production maintenance, and environment configuration to ensure reliable application delivery.
 
 ---
 
